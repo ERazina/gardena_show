@@ -1,0 +1,1490 @@
+@media (max-width: 599px) {
+  .more-time__img-wrapp {
+    height: 700px;
+  }
+  .more-time__img {
+    background: url('../img/more-time1.jpg') no-repeat 50% 98%;
+    background-size: 240%;
+  }
+  .about {
+    overflow: hidden;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .about .main-block {
+    font-size: 36px;
+  }
+  .about-text-align {
+    font-family: 'MuseoSansCyrl-700', Arial, helvetica, sans-serif;
+    font-size: 15px;
+  }
+  .about-subtitle {
+    font-size: 36px;
+  }
+  .advantigies {
+    margin-top: 0;
+  }
+  h2.about-gardena-blue {
+    font-family: 'Museo Sans Cyrl';
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 36px;
+    margin: 0 auto;
+    margin-bottom: 0;
+    color: #61abba;
+  }
+  .item1 > h3 {
+    margin-top: 26px;
+  }
+  .advantage-left {
+    width: 47%;
+  }
+  .arrow1:after {
+    position: absolute;
+    width: 179px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/8.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow2:after {
+    position: absolute;
+    width: 179px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/8.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow3:after {
+    position: absolute;
+    width: 179px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/8.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow4:after {
+    position: absolute;
+    width: 179px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/8.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow5:after {
+    position: absolute;
+    width: 179px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/8.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow6:after {
+    position: absolute;
+    width: 179px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/8.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow7:after {
+    position: absolute;
+    width: 179px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/8.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    bottom: -116px;
+  }
+  .item1 {
+    padding-bottom: 12px;
+  }
+  .item2 {
+    padding-bottom: 5px;
+  }
+  .item3 {
+    padding-bottom: 34px;
+  }
+  .item4 {
+    padding-bottom: 5px;
+  }
+  .item5,
+  .item6 {
+    padding-bottom: 5px;
+  }
+  h3.item {
+    font-size: 15px;
+  }
+  .item-text {
+    font-size: 13px;
+  }
+  .advantage-right {
+    float: none;
+    width: 50%;
+    text-align: left;
+  }
+  .gardena-image {
+    top: 298px;
+    left: 60%;
+    width: 84%;
+    z-index: -1;
+  }
+  .garden {
+    margin-top: 30px;
+  }
+  .garden {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1260px;
+  }
+  .about-clearfix {
+    overflow: hidden;
+  }
+  .guide__text {
+    width: 38%;
+  }
+  .properties table td {
+    padding: 10px 5px 10px 0;
+  }
+  .slider {
+    padding: 3px 0;
+  }
+  .center > .slider__item-wrapp .slider__title {
+    font-size: 22px;
+  }
+  .center > .slider__item-wrapp .slider__subtitle {
+    font-size: 13px;
+    width: 99%;
+  }
+  .center > .slider__item-wrapp .slider__item {
+    width: 257px;
+    margin-left: -78px;
+    top: -34px;
+    left: -24px;
+    left: 2px;
+    height: 326px;
+  }
+  .slider-item {
+    height: 258px;
+  }
+  .slider__item {
+    height: 258px;
+  }
+  .slider__item-wrapp {
+    width: none;
+    height: 258px;
+  }
+  .video {
+    height: 191px;
+  }
+  .gardena-video {
+    margin-top: 30px;
+    /* margin: 0 auto; */
+    margin-bottom: 37px;
+    width: 100%;
+    height: 236px;
+    left: 50%;
+    margin-left: 0;
+    cursor: pointer;
+    transition: 0.3s;
+    border: 2px solid #fff;
+    background-position: 50%;
+    background-size: cover;
+    /* margin-left: -160px; */
+    /* left: 50%; */
+    text-align: center;
+  }
+  .gardena-preview {
+    background-size: cover;
+    height: 500px;
+  }
+  .gardena-preview__logo {
+    width: 196px;
+    margin-top: 38px;
+  }
+  .pulse-button {
+    display: none;
+  }
+  .what-advantage {
+    display: none;
+  }
+  .gardena-preview__button {
+    margin-top: 199px;
+  }
+  .guide__item:first-of-type:after {
+    position: absolute;
+    top: -160px;
+    height: 188px;
+  }
+}
+@media (min-width: 375px) {
+  .full-autonom {
+    margin-top: 160px;
+  }
+}
+@media (min-width: 425px) {
+  .more-time__img {
+    background: url(../img/more-time1.jpg) no-repeat 50% 550%;
+    background-size: 240%;
+  }
+  .more-time__img-wrapp {
+    height: 1000px;
+  }
+  .full-autonom {
+    margin-top: 200px;
+  }
+}
+@media (min-width: 600px) {
+  .garden {
+    margin-top: 72px;
+  }
+  .header__logo {
+    text-align: left;
+  }
+  .gardena-preview {
+    height: 574px;
+    background-position: 50% -39px;
+  }
+  .gardena-preview__logo {
+    margin-top: 27px;
+  }
+  .gardena-preview__title {
+    font-size: 17px;
+    margin: 59px 0 10px;
+  }
+  .gardena-preview__subtitle {
+    font-size: 17px;
+  }
+  .gardena-preview__lawnmower-model {
+    font-size: 48px;
+    line-height: 1em;
+  }
+  .gardena-preview__button {
+    margin-top: 197px;
+    padding-bottom: 126px;
+  }
+  .video {
+    height: 363px;
+  }
+  .gardena-video {
+    font-family: 'MuseoSansCyrl-300', Arial, helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.2em;
+    position: absolute;
+    text-align: left;
+    color: #fff;
+    width: 600px;
+    margin-left: -300px;
+    margin-top: 45px;
+    height: 300px;
+    margin-bottom: 0;
+    left: 50%;
+  }
+  .gardena-video__title {
+    position: absolute;
+    top: -75px;
+    margin-top: 0;
+    text-align: left;
+  }
+  .gardena-video__play {
+    margin: 22px auto 0;
+  }
+  .pulse-button {
+    display: block;
+    bottom: -10px;
+  }
+  .what-advantage {
+    display: block;
+    margin-top: 57px;
+  }
+  .more-time__img {
+    background-size: 188%;
+  }
+  .more-time__title {
+    font-size: 26px;
+  }
+  .more-time__subtitle {
+    font-size: 17px;
+  }
+  .guide:before {
+    top: 75px;
+  }
+  .guide:after {
+    bottom: 52px;
+  }
+  .guide__item {
+    margin-top: 26px;
+  }
+  .guide__item:before {
+    top: -65px;
+  }
+  .guide__text {
+    font-size: 17px;
+    width: 43%;
+  }
+  .guide__img {
+    width: 43%;
+  }
+  .guide__pulse {
+    top: 70px;
+  }
+  .guide__pulse_2 {
+    top: inherit;
+    bottom: 50px;
+  }
+  .full-autonom__title {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  .full-autonom__text {
+    font-size: 17px;
+    margin-bottom: 30px;
+    width: 82%;
+  }
+  .properties__title {
+    font-size: 17px;
+  }
+  .properties__subtitle {
+    font-size: 48px;
+  }
+  .properties table {
+    font-size: 14px;
+  }
+  .beauti-lawn {
+    margin: 50px 0 60px;
+  }
+  .beauti-lawn__title {
+    font-size: 32px;
+    line-height: 1;
+    margin-bottom: 20px;
+  }
+  .beauti-lawn__grid {
+    margin: 0;
+  }
+  .beauti-lawn__text {
+    font-size: 17px;
+    bottom: 25px;
+  }
+  .about {
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+  .about .main-block {
+    font-size: 48px;
+  }
+  .about h2.about-gardena-blue {
+    font-family: 'Museo Sans Cyrl';
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 54px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 21px;
+    color: #61abba;
+  }
+  .advantigies {
+    margin-top: -155px;
+  }
+  .advantage-left {
+    width: 30%;
+    margin-top: 50px;
+    text-align: left;
+  }
+  .item > h3 {
+    font-size: 17px;
+  }
+  p .item-text {
+    font-size: 14px;
+    color: #666;
+  }
+  .item1 {
+    padding-bottom: 35px;
+  }
+  .item1 > p.item-text {
+    width: 102%;
+  }
+  .item2 {
+    position: relative;
+    padding-bottom: 46px;
+  }
+  .item3 {
+    position: relative;
+  }
+  .item5 {
+    margin-bottom: 38px;
+    padding-bottom: 0;
+  }
+  .item6 {
+    margin-bottom: 20px;
+  }
+  .item2 > p.item-text {
+    width: 68%;
+  }
+  .arrow1:after {
+    position: absolute;
+    z-index: 100;
+    width: 241px;
+    height: 65px;
+    margin-bottom: 100px;
+    content: '';
+    background-image: url('../img/arrows/1.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow2:after {
+    position: absolute;
+    z-index: 100;
+    top: 68%;
+    width: 121px;
+    height: 12px;
+    content: '';
+    background-image: url('../img/arrows/2.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow3:after {
+    position: absolute;
+    z-index: 100;
+    top: 67%;
+    width: 280px;
+    height: 75px;
+    content: '';
+    background-image: url('../img/arrows/3.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow4:after {
+    position: absolute;
+    z-index: 100;
+    top: 109%;
+    right: 0;
+    width: 220px;
+    height: 78px;
+    content: '';
+    background-image: url('../img/arrows/4.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow5:after {
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    width: 131px;
+    height: 30px;
+    content: '';
+    background-image: url('../img/arrows/5.svg');
+    background-repeat: no-repeat;
+    background-size: 102%;
+  }
+  .arrow6:after {
+    position: absolute;
+    z-index: 100;
+    top: 615px;
+    top: 90%;
+    right: 0;
+    width: 139px;
+    height: 28px;
+    content: '';
+    background-image: url('../img/arrows/6.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow7:after {
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    bottom: -56px;
+    width: 202px;
+    height: 124px;
+    content: '';
+    background-image: url('..img/arrows/7.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .gardena-image {
+    position: absolute;
+    z-index: -1;
+    top: 56%;
+    left: 21%;
+    width: 56%;
+  }
+  .advantage-right {
+    float: right;
+    width: 29%;
+    margin-top: 50px;
+    text-align: right;
+  }
+  .main-block {
+    font-size: 48px;
+  }
+}
+@media (min-width: 700px) {
+  .arrow6:after {
+    top: 76%;
+  }
+}
+@media (min-width: 768px) {
+  .header__logo {
+    float: left;
+  }
+  .header__link {
+    font-size: 12px;
+    position: relative;
+    display: block;
+    float: right;
+    width: 100px;
+    margin-right: 26px;
+    padding-top: 5px;
+    text-decoration: underline;
+    color: #373737;
+  }
+  .header__link:after {
+    position: absolute;
+    top: 10px;
+    right: -26px;
+    width: 11px;
+    height: 21px;
+    content: '';
+    background: url('../img/link-arrow.png') no-repeat 0 0;
+  }
+  .header__link:focus,
+  .header__link:hover {
+    color: #373737;
+  }
+  .what-advantage {
+    margin: 48px 0 0;
+    text-align: left;
+  }
+  .what-advantage__title {
+    text-align: center;
+  }
+  .more-time__img {
+    background-size: cover;
+  }
+  .full-autonom {
+    margin-top: 195px;
+  }
+  .footer .share-block {
+    text-align: left;
+  }
+  .footer .b-share {
+    margin-top: 5px;
+    padding: 0 !important;
+  }
+  .footer .b-share__handle {
+    margin: 5px 0 5px 10px;
+  }
+  .footer .b-share__handle:first-child {
+    margin-left: 0;
+  }
+  .footer__info {
+    margin-top: 20px;
+    text-align: right;
+  }
+  .footer__copyright {
+    margin: 0 0 10px;
+  }
+  .footer__tel {
+    margin: 0;
+  }
+  .footer__tel {
+    float: right;
+  }
+  .footer__copyright {
+    float: right;
+  }
+  .share-block__title {
+    display: inline-block;
+  }
+  .arrow6:after {
+    top: 78%;
+  }
+  .gardena-image {
+    top: 53%;
+  }
+  .gardena-preview {
+    height: 600px;
+  }
+  .gardena-preview__button {
+    margin-top: 213px;
+  }
+}
+@media (min-width: 960px) {
+  .about .main-block {
+    font-size: 57px;
+  }
+  .gardena-video {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    width: 768px;
+    height: 378px;
+    left: 50%;
+    margin-left: -384px;
+  }
+  .gardena-preview {
+    height: 984px;
+    background-position: 50% -78px;
+  }
+  .gardena-preview__logo {
+    margin-top: 43px;
+  }
+  .gardena-preview__title {
+    font-size: 19px;
+    line-height: 38px;
+    padding-top: 88px;
+  }
+  .gardena-preview__subtitle {
+    font-size: 19px;
+    line-height: 69px;
+  }
+  .gardena-preview__lawnmower-model {
+    font-size: 57px;
+    line-height: 28px;
+  }
+  .gardena-preview__button {
+    margin-top: 341px;
+    padding-bottom: 155px;
+  }
+  .button {
+    font-size: 19px;
+    padding: 14px 52px 10px;
+  }
+  .guide__text {
+    font-size: 19px;
+  }
+  .full-autonom {
+    margin-top: 200px;
+  }
+  .full-autonom__title {
+    font-size: 32px;
+    margin-bottom: 12px;
+  }
+  .full-autonom__text {
+    font-size: 19px;
+    margin: 0 auto;
+    margin-bottom: 22px;
+  }
+  .full-autonom__button {
+    margin-bottom: -20px;
+  }
+  .more-time__img-wrapp {
+    height: 1800px;
+  }
+  .more-time__title {
+    font-size: 32px;
+  }
+  .more-time__subtitle {
+    font-size: 19px;
+  }
+  .more-time__img {
+    background: url('../img/more-time1.jpg') no-repeat 50% 104%;
+  }
+  .video {
+    height: 465px;
+  }
+  .properties .container {
+    margin-left: 49px;
+  }
+  .properties__title {
+    font-size: 19px;
+  }
+  .properties__subtitle {
+    font-size: 57px;
+  }
+  .properties__image {
+    position: absolute;
+    top: 222px;
+    right: 1px;
+    display: block;
+    width: 34%;
+    max-width: 436px;
+  }
+  .properties table {
+    width: 64%;
+  }
+  .beauti-lawn {
+    margin: 75px 0;
+  }
+  .beauti-lawn__title {
+    margin-bottom: 20px;
+  }
+  .beauti-lawn__item {
+    width: 25%;
+  }
+  .beauti-lawn__text {
+    font-size: 19px;
+  }
+  .about-subtitle {
+    font-size: 57px;
+  }
+  .advantage-left {
+    width: 221px;
+  }
+  .advantage-right {
+    margin-top: 76px;
+    width: 23%;
+  }
+  .item > h3 {
+    font-size: 19px;
+  }
+  p .item-text {
+    font-size: 14px;
+  }
+  .item1 {
+    padding-bottom: 110px;
+  }
+  .item1 > p.item-text {
+    width: 110%;
+  }
+  .item2 {
+    padding-bottom: 132px;
+  }
+  .item4,
+  .item5,
+  .item6,
+  .item7 {
+    text-align: right;
+  }
+  .item4 {
+    margin-top: 42px;
+    margin-bottom: 77px;
+  }
+  .item5 {
+    margin-bottom: 81px;
+  }
+  .item6 {
+    margin-bottom: 96px;
+  }
+  .item7 {
+    margin-bottom: 0;
+  }
+  .item8 {
+    padding-top: 0;
+  }
+  .arrow1:after {
+    position: absolute;
+    z-index: 100;
+    width: 362px;
+    height: 100px;
+    margin-bottom: 100px;
+    content: '';
+    background-image: url('../img/arrows/1.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow2:after {
+    position: absolute;
+    z-index: 100;
+    top: 43%;
+    width: 300px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/2.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow3:after {
+    position: absolute;
+    z-index: 100;
+    top: 53%;
+    width: 422px;
+    height: 71px;
+    content: '';
+    background-image: url('../img/arrows/3.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow4:after {
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    width: 368px;
+    height: 129px;
+    content: '';
+    background-image: url('../img/arrows/4.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow5:after {
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    width: 246px;
+    height: 46px;
+    content: '';
+    background-image: url('../img/arrows/5.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .arrow6:after {
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    width: 228px;
+    height: 40px;
+    content: '';
+    background-image: url('../img/arrows/6.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 64%;
+  }
+  .arrow7:after {
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    bottom: -9px;
+    width: 300px;
+    height: 103px;
+    content: '';
+    background-image: url('../img/arrows/7.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 90%;
+  }
+  .gardena-image {
+    position: absolute;
+    z-index: -1;
+    top: 57%;
+    left: 24%;
+    width: 54%;
+  }
+  .what-advantage {
+    margin: 46px 0 0;
+  }
+  .what-advantage__text {
+    text-align: justify;
+  }
+  .pulse-button {
+    margin-left: -87px;
+    bottom: -9px;
+    left: 50%;
+    width: 172px;
+    height: 172px;
+    margin-left: -86px;
+  }
+  .pulse-button__text {
+    font-size: 16px;
+    line-height: 1.2em;
+  }
+  .pulse-button__text_s {
+    font-size: 11px;
+  }
+  .pulse-button__text_m {
+    margin: 47px 0 5px;
+  }
+  .pulse-button__text_l {
+    font-size: 26px;
+  }
+  .pulse-button__center {
+    width: 172px;
+    height: 172px;
+  }
+  .pulse-button__center:before {
+    bottom: 15px;
+    left: 50%;
+    width: 18px;
+    height: 21px;
+    margin-left: -9px;
+    background-size: 18px;
+  }
+  .pulse-button__circle {
+    top: -12px;
+    left: -12px;
+    width: 196px;
+    height: 196px;
+  }
+  @-webkit-keyframes pulseline {
+    from {
+      top: 0;
+      left: 0;
+      width: 172px;
+      height: 172px;
+    }
+    50% {
+      top: -25px;
+      left: -25px;
+      width: 222px;
+      height: 222px;
+      opacity: 0.3;
+      background: #61abba;
+    }
+    to {
+      top: 0;
+      left: 0;
+      width: 172px;
+      height: 172px;
+    }
+  }
+  @-moz-keyframes pulseline {
+    from {
+      top: 0;
+      left: 0;
+      width: 172px;
+      height: 172px;
+    }
+    50% {
+      top: -25px;
+      left: -25px;
+      width: 222px;
+      height: 222px;
+      opacity: 0.3;
+      background: #61abba;
+    }
+    to {
+      top: 0;
+      left: 0;
+      width: 172px;
+      height: 172px;
+    }
+  }
+  @-ms-keyframes pulseline {
+    from {
+      top: 0;
+      left: 0;
+      width: 172px;
+      height: 172px;
+    }
+    50% {
+      top: -25px;
+      left: -25px;
+      width: 222px;
+      height: 222px;
+      opacity: 0.3;
+      background: #61abba;
+    }
+    to {
+      top: 0;
+      left: 0;
+      width: 172px;
+      height: 172px;
+    }
+  }
+  @-o-keyframes pulseline {
+    from {
+      top: 0;
+      left: 0;
+      width: 172px;
+      height: 172px;
+    }
+    50% {
+      top: -25px;
+      left: -25px;
+      width: 222px;
+      height: 222px;
+      opacity: 0.3;
+      background: #61abba;
+    }
+    to {
+      top: 0;
+      left: 0;
+      width: 172px;
+      height: 172px;
+    }
+  }
+}
+@media (min-width: 992px) {
+  .what-advantage {
+    margin: 42px 0 25px;
+    text-align: left;
+  }
+  .what-advantage__item {
+    margin-bottom: 40px;
+    padding: 0 28px;
+  }
+  .what-advantage__item_center {
+    margin-top: 40px;
+  }
+  .what-advantage__title {
+    font-size: 32px;
+    line-height: 36px;
+  }
+  .what-advantage__text {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .footer__tel {
+    float: right;
+    margin-right: 36px;
+  }
+  .footer__copyright {
+    float: right;
+  }
+  .footer .b-share {
+    padding: 1px 3px 1px 10px!important;
+  }
+  .footer .b-share__handle {
+    height: initial;
+    margin: 5px;
+    padding: 0 !important;
+  }
+  .share-block__title {
+    display: inline-block;
+  }
+  .item8 {
+    margin-top: 97px;
+  }
+  .arrow5:after {
+    position: absolute;
+    z-index: 1000;
+    right: -39px;
+    bottom: 185px;
+    right: 0;
+    width: 300px;
+    height: 124px;
+    content: '';
+    background-image: url('../img/arrows/5.svg');
+    background-repeat: no-repeat;
+    background-size: 89%;
+  }
+  *:before,
+  *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .item4 {
+    margin-top: 43px;
+    margin-bottom: 48px;
+  }
+  .item6 {
+    margin-bottom: 126px;
+  }
+  .arrow1:after {
+    z-index: 100;
+    top: 58%;
+  }
+  .arrow2:after {
+    z-index: 100;
+  }
+  .arrow3:after {
+    width: 360px;
+    top: 65%;
+  }
+  .arrow4:after {
+    top: 107%;
+    width: 330px;
+    height: 102px;
+  }
+  .arrow5:after {
+    position: absolute;
+    z-index: 1000;
+    bottom: 185px;
+    width: 246px;
+    height: 46px;
+    content: '';
+    background-image: url('../img/arrows/5.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 110%;
+  }
+  .arrow6:after {
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    width: 228px;
+    height: 40px;
+    content: '';
+    background-image: url('../img/arrows/6.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 69%;
+  }
+  .arrow7:after {
+    top: 89%;
+    height: 94px;
+    width: 279px;
+  }
+  p.item-text {
+    font-size: 15px;
+  }
+  .item > h3 {
+    font-size: 22px;
+    margin-top: -3px;
+    font-family: 'MuseoSansCyrl-700', Arial, helvetica, sans-serif;
+  }
+  .about-subtitle {
+    font-size: 57px;
+  }
+}
+@media (min-width: 1260px) {
+  .gardena-preview {
+    height: 1000px;
+    max-height: 1000px;
+    background-position: 50% -65px;
+  }
+  .gardena-preview__logo {
+    margin-top: 46px;
+    width: 19%;
+  }
+  .gardena-preview__title {
+    font-size: 19px;
+    line-height: 38px;
+    margin: 116px 0 20px;
+  }
+  .gardena-preview__subtitle {
+    font-size: 22px;
+    line-height: 69px;
+  }
+  .gardena-preview__lawnmower-model {
+    font-size: 57px;
+    line-height: 28px;
+  }
+  .gardena-preview__button {
+    margin-top: 300px;
+  }
+  .button {
+    font-size: 21px;
+    padding: 14px 55px 10px;
+  }
+  .what-advantage {
+    margin: 46px 0 0;
+    text-align: left;
+  }
+  .what-advantage__item {
+    margin-bottom: 40px;
+    padding: 0 28px;
+  }
+  .what-advantage__item_center {
+    margin-top: 40px;
+  }
+  .what-advantage__title {
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 30px;
+  }
+  .what-advantage__text {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .what-advantage .more-time__img {
+    background: url(../img/more-time1.jpg) no-repeat 50% 104%;
+  }
+  .what-advantage .more-time__img-wrapp {
+    height: 1200px;
+    max-height: 1200px;
+  }
+  .what-advantage .gardena-video__title {
+    font-size: 22px;
+    top: -75px;
+  }
+  .what-advantage .gardena-video__play {
+    margin: 64px auto 0;
+  }
+  .what-advantage .full-autonom {
+    margin-top: 220px;
+  }
+  .what-advantage .full-autonom__title {
+    font-size: 36px;
+    margin-bottom: 13px;
+  }
+  .what-advantage .full-autonom__text {
+    font-size: 22px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  .what-advantage .full-autonom__button {
+    margin-bottom: -20px;
+  }
+  .what-advantage .more-time__img-wrapp {
+    height: 1750px;
+  }
+  .what-advantage .more-time__img {
+    background-size: 100%;
+  }
+  .what-advantage .more-time__title {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  .what-advantage .more-time__subtitle {
+    font-size: 22px;
+  }
+  .what-advantage .properties {
+    margin-top: 75px;
+  }
+  .what-advantage .properties__title {
+    font-size: 22px;
+  }
+  .what-advantage .properties__subtitle {
+    font-size: 62px;
+  }
+  .what-advantage .properties table {
+    font-size: 15px;
+  }
+  .what-advantage .beauti-lawn {
+    margin: 110px 0 75px;
+  }
+  .what-advantage .beauti-lawn__title {
+    font-size: 36px;
+    margin-bottom: 60px;
+  }
+  .what-advantage .beauti-lawn__text {
+    font-size: 21px;
+  }
+  .what-advantage .about {
+    max-width: 1260px;
+    margin-right: 62px;
+    margin-left: 62px;
+  }
+  .what-advantage .about-subtitle {
+    font-size: 62px;
+  }
+  .what-advantage .about .advantigies {
+    margin-top: -13%;
+  }
+  .what-advantage .about .advantage-right {
+    width: auto;
+    width: 26%;
+    margin-top: 0;
+  }
+  .what-advantage .about .advantage-left {
+    width: auto;
+    margin-top: 0;
+  }
+  .what-advantage .about .main-block {
+    font-size: 62px;
+  }
+  .what-advantage .about .pulse-button {
+    bottom: -45px;
+  }
+  .what-advantage h2.gardena-preview__subtitle.about-gardena-blue {
+    font-family: 'Museo Sans Cyrl';
+    font-size: 62px;
+    font-weight: 900;
+    line-height: 54px;
+    margin: 0 auto;
+    padding-top: 22px;
+    color: #61abba;
+  }
+  .what-advantage .gardena-image {
+    top: 50%;
+    left: 24%;
+    width: 54%;
+  }
+  .what-advantage .advantigies {
+    margin-top: 78px;
+  }
+  .what-advantage .item > h3 {
+    font-size: 22px;
+  }
+  .what-advantage .item1 {
+    padding-bottom: 145px;
+  }
+  .what-advantage .item2 {
+    padding-bottom: 110px;
+  }
+  .what-advantage .item4 {
+    margin-top: 0;
+    padding-bottom: 13px;
+  }
+  .what-advantage .item5 {
+    padding-bottom: 13px;
+  }
+  .what-advantage .item6 {
+    margin-bottom: 42px;
+  }
+  .what-advantage .item7 {
+    padding-bottom: 27px;
+  }
+  .what-advantage .item7 > h3 {
+    margin-left: 100px;
+  }
+  .what-advantage .item8 {
+    margin-top: 130px;
+  }
+  .what-advantage .arrow1:after {
+    position: absolute;
+    width: 295px;
+    height: 71px;
+    margin-bottom: 100px;
+    content: '';
+    background-image: url('../img/arrows/1.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .what-advantage .arrow2:after {
+    position: absolute;
+    top: 39%;
+    width: 261px;
+    height: 28px;
+    content: '';
+    background-image: url('../img/arrows/2.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .what-advantage .arrow3:after {
+    position: absolute;
+    width: 399px;
+    top: 50%;
+    bottom: -74px;
+    height: 60px;
+    content: '';
+    background-image: url('../img/arrows/3.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .what-advantage .arrow4:after {
+    position: absolute;
+    right: 0;
+    width: 330px;
+    height: 103px;
+    content: '';
+    background-image: url('../img/arrows/4.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .what-advantage .arrow5:after {
+    position: absolute;
+    right: 0;
+    width: 246px;
+    height: 45px;
+    content: '';
+    background-image: url('../img/arrows/5.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .what-advantage .arrow6:after {
+    position: absolute;
+    right: 0;
+    width: 228px;
+    height: 40px;
+    content: '';
+    background-image: url('../img/arrows/6.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .what-advantage .arrow7:after {
+    position: absolute;
+    top: 84%;
+    right: 0;
+    width: 288px;
+    height: 96px;
+    content: '';
+    background-image: url('../img/arrows/7.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .what-advantage .pulse-button__circle {
+    top: -31px;
+    left: 0px;
+    width: 196px;
+    height: 196px;
+  }
+  .what-advantage .pulse-button__circle_2 {
+    margin-left: 10px;
+    right: 0px;
+  }
+  .what-advantage .pulse-button__center {
+    width: 172px;
+    /* margin-left: 34px; */
+    height: 172px;
+    left: 12px;
+    top: -20px;
+  }
+  .what-advantage .garden {
+    max-width: 1260px;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 1260px) and (min-width: 1440px) {
+  .full-autonom {
+    margin-top: 360px;
+  }
+  .more-time__img-wrapp {
+    height: 980px;
+  }
+  .about {
+    max-width: 1260px;
+    margin: 0 auto;
+  }
+  .advantigies {
+    margin-top: 78px;
+  }
+  .about {
+    margin: 0 auto;
+  }
+  .more-time__img {
+    background-size: 91%;
+  }
+}
+@media (min-width: 1260px) and (min-width: 1680px) {
+  .full-autonom {
+    margin-top: 500px;
+  }
+  .full-autonom__text {
+    margin-bottom: 120px;
+  }
+  .more-time__img-wrapp {
+    height: 1200px;
+  }
+  .about {
+    margin: 0 auto;
+  }
+  .more-time__img {
+    background-size: 144%;
+  }
+}
+@media (min-width: 1260px) and (min-width: 1800px) {
+  .full-autonom {
+    margin-top: 500px;
+  }
+  .more-time__img-wrapp {
+    height: 1280px;
+  }
+  .about {
+    margin: 0 auto;
+  }
+  .more-time__img-wrapp {
+    height: 1600px;
+  }
+  .more-time__img {
+    background-size: 144%;
+  }
+}
+@media (min-width: 1260px) and (min-width: 1800px) {
+  .more-time__img-wrapp {
+    height: 1600px;
+  }
+}
+@media (min-width: 1260px) and (max-width: 960px) {
+  .about-text-align {
+    font-size: 19px;
+  }
+  .about-subtitle {
+    font-size: 57px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+  }
+}
+@media (min-width: 1260px) and (max-width: 600px) {
+  .about-text-align {
+    font-size: 17px;
+  }
+  .about-subtitle {
+    font-size: 48px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+  }
+  .about .main-block {
+    font-size: 48px;
+  }
+}
+@media (min-width: 1260px) and (max-width: 425px) {
+  .about-text-align {
+    font-size: 15px;
+  }
+  .about-subtitle {
+    font-size: 36px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+  }
+  .about .main-block {
+    font-size: 36px;
+  }
+}
